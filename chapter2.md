@@ -26,11 +26,10 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque pretium el
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque pretium elementum eros, ac dignissim purus volutpat et. Integer eleifend, odio id tincidunt rhoncus, orci lorem faucibus orci, sed euismod sapien lectus sed erat.
 
-####### There is no heading 7
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque pretium elementum eros, ac dignissim purus volutpat et. Integer eleifend, odio id tincidunt rhoncus, orci lorem faucibus orci, sed euismod sapien lectus sed erat.
+# Don't use heading 7: there is no heading 7
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque pretium elementum eros, ac dignissim purus volutpat et. Integer eleifend, odio id tincidunt rhoncus, orci lorem faucibus orci, sed euismod sapien lectus sed erat.
+And you will get an ePub error about the ID
 
 ## Subheading
 
@@ -45,5 +44,3 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque pretium el
 ### Subsubheading
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque pretium elementum eros, ac dignissim purus volutpat et. Integer eleifend, odio id tincidunt rhoncus, orci lorem faucibus orci, sed euismod sapien lectus sed erat.
-
-
